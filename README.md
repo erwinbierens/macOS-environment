@@ -10,5 +10,5 @@ This is a collection of tools that i'm using on my macOS system.
 Homebrew is a package manager for macOS
 
 ### Terminal
-for the terminal i've switched to iTerm2
+for the terminal i've switched to [iTerm2](/iTerm2/)
 
