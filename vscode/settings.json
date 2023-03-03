@@ -1,0 +1,13 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "Shades of Purple (Super Dark)",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.confirmSync": false,
+    "window.commandCenter": true,
+    "workbench.sideBar.location": "right",
+    "tabnine.experimentalAutoImports": true
+}

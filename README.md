@@ -17,6 +17,8 @@ Commands to use:
     brew upgrade
     brew install <packagename>
 
+Here you can find the full [man page](https://docs.brew.sh/Manpage)
+
 ### Terminal
 for the terminal i've switched to [iTerm2](/iTerm2/)
 
