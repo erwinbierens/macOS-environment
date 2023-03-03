@@ -7,7 +7,15 @@ My personal stack of macOS configuration and tools
 This is a collection of tools that i'm using on my macOS system. 
 
 ### Homebrew
-Homebrew is a package manager for macOS
+Homebrew is package manager for macOS which makes installing lots of different software like Git, Ruby, and Node simpler. Homebrew lets you avoid possible security problems associated with using the sudo command to install software like Node.
+
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+Commands to use: 
+
+    brew update
+    brew upgrade
+    brew install <packagename>
 
 ### Terminal
 for the terminal i've switched to [iTerm2](/iTerm2/)
