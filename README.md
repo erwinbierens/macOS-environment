@@ -12,3 +12,4 @@ Homebrew is a package manager for macOS
 ### Terminal
 for the terminal i've switched to [iTerm2](/iTerm2/)
 
+### VSCode
