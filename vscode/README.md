@@ -15,8 +15,6 @@
 - PowerShell
 - Prettier - Code Formatter
 - Prettier ESLint
-- Pylance
 - Python
 - Shades of Purple
-- Tabnine AI
 - Teams Toolkit
