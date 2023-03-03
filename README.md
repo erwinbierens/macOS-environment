@@ -23,3 +23,4 @@ Here you can find the full [man page](https://docs.brew.sh/Manpage)
 for the terminal i've switched to [iTerm2](/iTerm2/)
 
 ### VSCode
+You can find a listing of all plugins and themes i'm using for VS Code over [here](/vscode/)
